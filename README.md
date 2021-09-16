@@ -1,4 +1,4 @@
-# Projeto individual desenvolvido dentro do módulo de Front-End do curso de Desenvolvimento Web na Trybe para fins avaliativos. 
+# Projeto individual desenvolvido dentro do módulo de Front-end do curso de Desenvolvimento Web na Trybe para fins avaliativos. 
 
 ## Projeto Starwars Planets Search em context api e hooks!
 
